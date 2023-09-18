@@ -1,7 +1,7 @@
 {
   "Version": 1,
   "Id": "41C25A0CB5471D64C053FEB8E61B19DA",
-  "DisplayName": "Catppuccin-Latte",
+  "DisplayName": "Solarized Light",
   "Colors": {
     "EStyleColor::Black": "(R=0.000000,G=0.000000,B=0.000000,A=1.000000)",
     "EStyleColor::Background": "(R=0.835242,G=0.878535,B=0.988144,A=1.000000)",
